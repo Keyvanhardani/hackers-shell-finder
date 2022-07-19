@@ -11,3 +11,6 @@ pip install pyfiglet <br>
 usage:  <br>
 python app.py  <br>
 enter Domain: google.com
+
+
+DISCLAIMER: This script is for testing and educational purposes only. Any other usage for this code is not allowed. Use it at your own risk.
